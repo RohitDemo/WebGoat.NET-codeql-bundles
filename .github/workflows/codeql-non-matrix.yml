@@ -1,4 +1,4 @@
-name: "CodeQL - Not Matrix Strategy"
+name: "CodeQL - Scan and Generate Report"
 
 on:
  workflow_dispatch:
